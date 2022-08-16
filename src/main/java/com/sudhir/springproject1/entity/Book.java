@@ -4,7 +4,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
-
+//written by sudhir kumar
 @Entity
 @Table(name = "book")
 public class Book {
